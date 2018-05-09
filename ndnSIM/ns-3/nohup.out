@@ -1,0 +1,18 @@
+Experiment started at: 08:19:19.887860
+NS_GLOBAL_VALUE="RngRun=5" ./waf --run "scratch/ndn-offloading-twoInterfaces --traceVeh=./traces/50Nodes/manhattan-50-vehicle-5.ns_movements --tracePed=./traces/50Nodes/manhattan-50-pedestrian-5.ns_movements --dataDepotStop=1.0 --pedNodes=50 --vehNodes=50"
+Waf: Entering directory `/VM2_D2D_ndnSIM/ndnSIM/ns-3/build'
+fatal: Not a git repository: /VM1_D2D_ndnSIM/ndnSIM/ns-3/src/ndnSIM/.git/modules/NFD
+fatal: Not a git repository: /VM1_D2D_ndnSIM/ndnSIM/ns-3/src/ndnSIM/.git/modules/ndn-cxx
+Waf: Leaving directory `/VM2_D2D_ndnSIM/ndnSIM/ns-3/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (22.507s)
+Total simulation time is 2000s
+Finished installing WiFi (Ch.6)
+Finished installing P2P Links (LTE)
+Finished installing Mobility
+Finished installing NDN Stack
+Finished installing Strategy
+Finished installing Consumer App
+Finished installing Producer App
+Data Repos will stop at t = 1s
+Finished installing Tracers
