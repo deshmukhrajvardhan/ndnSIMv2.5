@@ -1,11 +1,9 @@
-Experiment started at: 08:19:19.887860
+Experiment started at: 13:55:06.191953
 NS_GLOBAL_VALUE="RngRun=5" ./waf --run "scratch/ndn-offloading-twoInterfaces --traceVeh=./traces/50Nodes/manhattan-50-vehicle-5.ns_movements --tracePed=./traces/50Nodes/manhattan-50-pedestrian-5.ns_movements --dataDepotStop=1.0 --pedNodes=50 --vehNodes=50"
-Waf: Entering directory `/VM2_D2D_ndnSIM/ndnSIM/ns-3/build'
-fatal: Not a git repository: /VM1_D2D_ndnSIM/ndnSIM/ns-3/src/ndnSIM/.git/modules/NFD
-fatal: Not a git repository: /VM1_D2D_ndnSIM/ndnSIM/ns-3/src/ndnSIM/.git/modules/ndn-cxx
-Waf: Leaving directory `/VM2_D2D_ndnSIM/ndnSIM/ns-3/build'
+Waf: Entering directory `/VM3_D2D_ndnSIM/ndnSIMv2.5/ndnSIM/ns-3/build'
+Waf: Leaving directory `/VM3_D2D_ndnSIM/ndnSIMv2.5/ndnSIM/ns-3/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (22.507s)
+'build' finished successfully (24.223s)
 Total simulation time is 2000s
 Finished installing WiFi (Ch.6)
 Finished installing P2P Links (LTE)
@@ -16,3 +14,831 @@ Finished installing Consumer App
 Finished installing Producer App
 Data Repos will stop at t = 1s
 Finished installing Tracers
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+VALUES NOT!!! Writing into energy file/VM2_D2D_ndnSIM/ndnSIM/ns-3/scratch/energy_level.txt
+Command ['/VM3_D2D_ndnSIM/ndnSIMv2.5/ndnSIM/ns-3/build/scratch/ndn-offloading-twoInterfaces', '--traceVeh=./traces/50Nodes/manhattan-50-vehicle-5.ns_movements', '--tracePed=./traces/50Nodes/manhattan-50-pedestrian-5.ns_movements', '--dataDepotStop=1.0', '--pedNodes=50', '--vehNodes=50'] terminated with signal SIGTERM. Run it under a debugger to get more information (./waf --run <program> --command-template="gdb --args %s <args>").
+Created directory: $HOME/manhattan-100Nodes-5
+    app-delays-trace file does not exist!
+    cs-trace-ped file exists. Moving file to trace folder!
+    cs-trace-veh file exists. Moving file to trace folder!
+    cs-trace-dataRepo file exists. Moving file to trace folder!
+    energy_level file does not exist!
+Experiment ended with elapsed time of: -1 day, 10:08:53.669627
+**********************************
+Experiment started at: 00:03:59.861760
+NS_GLOBAL_VALUE="RngRun=6" ./waf --run "scratch/ndn-offloading-twoInterfaces --traceVeh=./traces/50Nodes/manhattan-50-vehicle-6.ns_movements --tracePed=./traces/50Nodes/manhattan-50-pedestrian-6.ns_movements --dataDepotStop=1.0 --pedNodes=50 --vehNodes=50"
+Waf: Entering directory `/VM3_D2D_ndnSIM/ndnSIMv2.5/ndnSIM/ns-3/build'
+Terminated
+Created directory: $HOME/manhattan-100Nodes-6
+    app-delays-trace file does not exist!
+    cs-trace-ped file does not exist!
+    cs-trace-ped file does not exist!
+    cs-trace-dataRepo file does not exist!
+    energy_level file does not exist!
+Experiment ended with elapsed time of: 0:00:11.122559
+**********************************
+Experiment started at: 00:04:10.984785
+NS_GLOBAL_VALUE="RngRun=7" ./waf --run "scratch/ndn-offloading-twoInterfaces --traceVeh=./traces/50Nodes/manhattan-50-vehicle-7.ns_movements --tracePed=./traces/50Nodes/manhattan-50-pedestrian-7.ns_movements --dataDepotStop=1.0 --pedNodes=50 --vehNodes=50"
+Waf: Entering directory `/VM3_D2D_ndnSIM/ndnSIMv2.5/ndnSIM/ns-3/build'
+Terminated
+Created directory: $HOME/manhattan-100Nodes-7
+    app-delays-trace file does not exist!
+    cs-trace-ped file does not exist!
+    cs-trace-ped file does not exist!
+    cs-trace-dataRepo file does not exist!
+    energy_level file does not exist!
+Experiment ended with elapsed time of: 0:00:22.021881
+**********************************
+Experiment started at: 00:04:33.006780
+NS_GLOBAL_VALUE="RngRun=8" ./waf --run "scratch/ndn-offloading-twoInterfaces --traceVeh=./traces/50Nodes/manhattan-50-vehicle-8.ns_movements --tracePed=./traces/50Nodes/manhattan-50-pedestrian-8.ns_movements --dataDepotStop=1.0 --pedNodes=50 --vehNodes=50"
+Waf: Entering directory `/VM3_D2D_ndnSIM/ndnSIMv2.5/ndnSIM/ns-3/build'
+Terminated
+Created directory: $HOME/manhattan-100Nodes-8
+    app-delays-trace file does not exist!
+    cs-trace-ped file does not exist!
+    cs-trace-ped file does not exist!
+    cs-trace-dataRepo file does not exist!
+    energy_level file does not exist!
+Experiment ended with elapsed time of: 0:00:09.812091
+**********************************

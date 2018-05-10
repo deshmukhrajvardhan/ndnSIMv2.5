@@ -364,7 +364,7 @@ main(int argc, char* argv[])
   // Install Consumer application
   //  
   ndn::AppHelper consumerHelper("ns3::ndn::ConsumerZipfMandelbrot");
-  consumerHelper.SetAttribute("s", StringValue ("1.4"));
+  consumerHelper.SetAttribute("s", StringValue ("1"));
   consumerHelper.SetAttribute("Frequency", StringValue ("50"));
   //consumerHelper.SetAttribute("Randomize", StringValue ("uniform"));
   // Number of different content (sequence numbers) that will be requested by the applications
