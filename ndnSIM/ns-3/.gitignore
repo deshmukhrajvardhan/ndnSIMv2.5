@@ -4,7 +4,6 @@
 *.rej
 
 *.o
-*.pyc
 *.pyo
 
 *.cwnd
@@ -28,18 +27,14 @@ bindings/python/pybindgen/
 ms_print.*
 massif.*
 coverity
-TAGS
 
 .lock-waf_*_build
-#.waf*
 
 build-dir/
 build/
 /.cproject
 /.project
 
-*.pyc
-.waf*
 src/NDNabstraction
 build/
 doc/html/
@@ -62,7 +57,6 @@ doc/introspected-doxygen.h
 .lock-waf_freebsd7_build
 .lock-waf_freebsd8_build
 .lock-waf_freebsd9_build
-.waf
 ^doc/introspected-doxygen\.h$
 .*\.py[co]$
 \.pcap$
@@ -85,5 +79,4 @@ massif.*
 \#[^\#/]+\#$
 .lock-wscript
 .lock-wafbuild
-configure
 toggle
