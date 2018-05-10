@@ -22,8 +22,6 @@ seventh-packet-byte-count.png
 
 testpy-output
 
-bindings/python/pybindgen/
-
 ms_print.*
 massif.*
 coverity
@@ -70,7 +68,6 @@ doc/introspected-doxygen.h
 ^doc/manual/figures/.*eps
 ^doc/manual/figures/.*pdf
 ^doc/manual/figures/.*png
-^bindings/python/pybindgen/
 ms_print.*
 massif.*
 \.patch$
