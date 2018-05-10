@@ -5,4 +5,4 @@
 .DS_Store
 docs/doxygen.warnings.log
 docs/introspected-doxygen.hpp
-docs/ndnSIM.tag
+#docs/ndnSIM.tag
