@@ -196,8 +196,13 @@ Consumer::SendPacket()
   //RETX TAG
   auto retxTag = m_seqToInterest.find(seq)->second;
   if (retxTag){
-	  interest->setTag(make_shared<lp::RetxTag>(0x1));
-	  //std::cout << "(SendPacket) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
+    uint64_t retxCount = *interest->getTag<lp::RetxTag>();
+          std::cout << "(SendPacket) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
+          if (retxCount){
+            interest->setTag(make_shared<lp::RetxTag>(retxCount+1));}
+          else{
+            interest->setTag(make_shared<lp::RetxTag>(0x1));}
+	  
   }
   else{
 	  interest->setTag(make_shared<lp::RetxTag>(0x0));
