@@ -196,17 +196,26 @@ Consumer::SendPacket()
   //RETX TAG
   auto retxTag = m_seqToInterest.find(seq)->second;
   if (retxTag){
-    uint64_t retxCount = *interest->getTag<lp::RetxTag>();
-          std::cout << "(SendPacket) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
+    /* try {  
+          uint64_t retxCount = *interest->getTag<lp::RetxTag>();
+          std::cout << "(try:SendPacket) Retx tag was: " << *interest->getTag<lp::RetxTag>() << std::endl;
           if (retxCount){
             interest->setTag(make_shared<lp::RetxTag>(retxCount+1));}
           else{
             interest->setTag(make_shared<lp::RetxTag>(0x1));}
+          std::cout << "(try:SendPacket) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
+        }
+        catch (...){}*/
+
+      interest->setTag(make_shared<lp::RetxTag>(m_seqRetxCounts[seq]));
+      std::cout << "(Catch) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
+      
 	  
   }
   else{
+
 	  interest->setTag(make_shared<lp::RetxTag>(0x0));
-	  //std::cout << "(SendPacket) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
+	  std::cout << "(else:SendPacket) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
   }
 
   // NS_LOG_INFO ("Requesting Interest: \n" << *interest);
