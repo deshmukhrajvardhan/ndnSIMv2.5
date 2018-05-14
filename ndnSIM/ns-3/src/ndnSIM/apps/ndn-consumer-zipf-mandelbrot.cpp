@@ -189,12 +189,12 @@ ConsumerZipfMandelbrot::SendPacket()
     catch (...){}*/
 
       interest->setTag(make_shared<lp::RetxTag>(m_seqRetxCounts[seq]));
-      std::cout << "(Catch) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
+      //std::cout << "(Catch) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
 
   }
   else{
 	  interest->setTag(make_shared<lp::RetxTag>(0x0));
-	  std::cout << "(else:SendPacket) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
+          //	  std::cout << "(else:SendPacket) Retx tag is: " << *interest->getTag<lp::RetxTag>() << std::endl;
   }
 
   // NS_LOG_INFO ("Requesting Interest: \n" << *interest);
